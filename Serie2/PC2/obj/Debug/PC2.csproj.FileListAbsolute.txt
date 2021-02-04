@@ -1,0 +1,13 @@
+A:\work\PC\PC2\PC2\obj\Debug\PC2.csprojAssemblyReference.cache
+A:\work\PC\PC2\PC2\obj\Debug\PC2.csproj.CoreCompileInputs.cache
+A:\work\PC\PC2\PC2\bin\Debug\PC2.exe.config
+A:\work\PC\PC2\PC2\bin\Debug\PC2.exe
+A:\work\PC\PC2\PC2\bin\Debug\PC2.pdb
+A:\work\PC\PC2\PC2\obj\Debug\PC2.exe
+A:\work\PC\PC2\PC2\obj\Debug\PC2.pdb
+E:\work\PC\PC2\PC2\bin\Debug\PC2.exe.config
+E:\work\PC\PC2\PC2\bin\Debug\PC2.exe
+E:\work\PC\PC2\PC2\bin\Debug\PC2.pdb
+E:\work\PC\PC2\PC2\obj\Debug\PC2.csprojAssemblyReference.cache
+E:\work\PC\PC2\PC2\obj\Debug\PC2.exe
+E:\work\PC\PC2\PC2\obj\Debug\PC2.pdb
